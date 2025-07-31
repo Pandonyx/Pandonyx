@@ -63,7 +63,7 @@ Here are some of the technologies I work with:
 ### [Todo List App](https://github.com/Pandonyx/todo-app-js)
 - A simple and effective todo list application to practice fundamental web development concepts.
 - **Technologies:** HTML, CSS, JavaScript
-- [Live Demo](https://pandonyx.github.io/todo-app-js/)
+- [Live Demo](https://dynamic-to-do-list-js-plum.vercel.app/)
 
 ### [Library Inventory Program (CLI)](https://github.com/Pandonyx/python-library-management)
 - A command-line interface program for managing a library's inventory.
